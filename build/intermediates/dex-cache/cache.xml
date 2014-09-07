@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/jaochai/AndroidStudioProjects/PowAlcohol/app/build/intermediates/pre-dexed/debug/ioiolibbt-f86446fc27e5b1c4129fc3f87445235d17d9a41c.jar"
+        jar="/Users/jaochai/AndroidStudioProjects/PowAlcohol/app/libs/ioiolibbt.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9305afb6d97d7529b71e10ed366fd84043940770"/>
+    <item
+        dex="/Users/jaochai/AndroidStudioProjects/PowAlcohol/app/build/intermediates/pre-dexed/debug/ioiolibaccessory-2290db9b9f37b0578e7d5f1f3d24ba7bf99b94d5.jar"
+        jar="/Users/jaochai/AndroidStudioProjects/PowAlcohol/app/libs/ioiolibaccessory.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="516a7465aef31dbbd50354bc1df4df79549a5d66"/>
+    <item
+        dex="/Users/jaochai/AndroidStudioProjects/PowAlcohol/app/build/intermediates/pre-dexed/debug/ioiolib-498d907b3705a7f9c76dcea9615a99c04ed41f2c.jar"
+        jar="/Users/jaochai/AndroidStudioProjects/PowAlcohol/app/libs/ioiolib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="64a371e168b290e91f70f6ffcf1b25332545b1d1"/>
+    <item
+        dex="/Users/jaochai/AndroidStudioProjects/PowAlcohol/app/build/intermediates/pre-dexed/debug/classes-ead472d2e3a3d0c2d5d658615cd8e04def941d7d.jar"
+        jar="/Users/jaochai/AndroidStudioProjects/PowAlcohol/app/build/intermediates/exploded-aar/PowAlcohol.libraries/facebook/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd97d2950b206f77804aefb9649a561e0876b4a5"/>
+    <item
+        dex="/Users/jaochai/AndroidStudioProjects/PowAlcohol/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>

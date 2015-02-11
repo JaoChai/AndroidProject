@@ -103,6 +103,7 @@ public class MainActivity extends Activity {
         Fragment fragment = null;
         switch (position) {
             case 0:
+                 fragment = new HomeFragment();
                 break;
             default:
                 break;
